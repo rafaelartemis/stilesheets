@@ -1019,4 +1019,49 @@ td.teacherstatsbycourse {
   -webkit-border-radius: 7px;
   border-radius: 7px;
 }
+
+/*adcições 2021 
+
+----- Caixa da Pagina de Login
+*/
+
+
+
+.flex-row-reverse {
+  flex-direction: row;
+  margin: auto;
+  width: 75%;
+  justify-content: center;
+  text-align: center;
+}
+
+.row {
+}
+
+@media (min-width: 1200px) {
+  .col-xl-6 {
+    /* flex: 0 0 50%; */
+    flex: 1 1 auto;
+  }
+}
+
+.card-body, .userprofile .profile_tree section {
+  justify-content: center;
+  align-content: center;
+}
+
+#page-login-index .card {
+  align-text: center;
+}
+
+#region-main > div > div.row > div > div > div {
+  align-content: center;
+}
+
+.card-block {
+  text-align: center;
+}
+
+
+
 /*# sourceMappingURL=mainava_2020-1.css.map */
