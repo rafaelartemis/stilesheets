@@ -1061,4 +1061,23 @@ td.teacherstatsbycourse {
   text-align: center;
 }
 
+
+/* Caixa de login cores */
+
+
+/* mainava.css | https://rafaelartemis.github.io/stilesheets/mainava.css */
+
+#page-login-index #loginbtn {
+  /* background-color: #345574 !important; */
+  background-color: #29327A;
+}
+
+.card-body, .userprofile .profile_tree section {
+  background-image: linear-gradient(135deg, #29327A, #DC0A84);
+  color: #fff;
+  border-radius: 6px;
+}
+
+
+
 /*# sourceMappingURL=mainava_2020-1.css.map */
