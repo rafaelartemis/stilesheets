@@ -439,7 +439,7 @@ a.btn-info:active {
 */
 
 .textoseparador:before {
-  content: "\f2d0\00a0\00a0";
+  content: "\f105";
   font-family: FontAwesome;
   color: #274263;
   font-size: 1em;
