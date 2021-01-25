@@ -423,7 +423,8 @@ a.btn-info:active {
   content: "\f144\00a0\00a0";
   font-family: FontAwesome;
 }
-.textoseparador {
+
+/* .textoseparador {
   border-left: 2px solid #274263;
   padding: 5px 5px 5px 15px!important;
   margin: 20px 0px 30px 0px!important;
@@ -435,6 +436,8 @@ a.btn-info:active {
   flex-wrap: wrap;
   justify-content: center;
 }
+*/
+
 .textoseparador:before {
   content: "\f2d0\00a0\00a0";
   font-family: FontAwesome;
