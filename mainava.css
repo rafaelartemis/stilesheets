@@ -1085,5 +1085,19 @@ td.teacherstatsbycourse {
 
 */
 
+/* all | https://ead.fametro.edu.br/theme/styles.php/adaptable/1611608226_1/all */
+
+#adaptable-page-header-wrapper .dropdown-menu > li > a.dropdown-item, #adaptable-page-header-wrapper .dropdown-item a {
+  /* color: #a6d1d8; */
+  color: #278ea7;
+}
+
+#adaptable-page-header-wrapper #main-navbar li ul li a, #adaptable-page-header-wrapper #main-navbar li .action-menu-trigger .dropdown-item {
+  /* color: #a6d1d8; */
+  color: #278ea7;
+}
+
+
+
 
 /*# sourceMappingURL=mainava_2020-1.css.map */
