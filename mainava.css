@@ -444,6 +444,15 @@ a.btn-info:active {
   color: #274263;
   font-size: 1em;
 }
+
+
+.textoseparador_avaliacoes:before {
+  content: "\f058\00a0\00a0";
+  font-family: FontAwesome;
+  color: #274263;
+  font-size: 1em;
+}
+
 .moveablesection {
   -webkit-border-radius: 7px 7px 7px 7px;
   border-radius: 7px 7px 7px 7px;
