@@ -36,8 +36,8 @@ a.btn-info:active {
   border-radius: 7px 7px 7px 7px;
 }
 .list-group-item.active {
-  background-color: #345574;
-  border-color: #345574;
+  background-color: #274263;
+  border-color: #274263;
 }
 #page-header {
   z-index: 999;
@@ -54,7 +54,7 @@ a.btn-info:active {
   color: #d7d7d7;
 }
 #page-wrapper > nav {
-  background-color: #29327A !important;
+  background-color: #274263 !important;
 }
 .navbar-light .navbar-nav .nav-link {
   color: #e9e9e9 !important;
@@ -66,7 +66,7 @@ a.btn-info:active {
   background-color: #FFF !important;
 }
 .navbar.fixed-top .dropdown .dropdown-menu a {
-  color: #29327A !important;
+  color: #274263 !important;
 }
 #nav-drawer {
   background-color: #d7d7d7 !important;
@@ -81,7 +81,7 @@ a.btn-info:active {
   background-color: #e9e9e9 !important;
 }
 #page-footer {
-  background-color: #29327A !important;
+  background-color: #274263 !important;
 }
 .card {
   -webkit-border-radius: 7px 7px 7px 7px;
@@ -209,7 +209,7 @@ a.btn-info:active {
   padding-bottom: 30px;
 }
 .rowsumario {
-  border-left: 2px solid #345574;
+  border-left: 2px solid #274263;
   padding: 5px 5px 5px 5px!important;
   margin: 20px 0px 30px 0px!important;
   background-color: #e9e9e9;
@@ -220,7 +220,7 @@ a.btn-info:active {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: center;
-  color: #345574;
+  color: #274263;
 }
 #video-pv iframe {
   -webkit-border-radius: 7px 7px 7px 7px;
@@ -245,7 +245,7 @@ a.btn-info:active {
 .botaohelppage:before {
   content: "\f1cd\00a0\00a0";
   font-family: FontAwesome;
-  color: #29327A;
+  color: #274263;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -274,7 +274,7 @@ a.btn-info:active {
 .botaoondeestoupage:before {
   content: "\f277\00a0\00a0";
   font-family: FontAwesome;
-  color: #29327A;
+  color: #274263;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -292,7 +292,7 @@ a.btn-info:active {
 }
 .badge-rigth {
   float: right;
-  color: #29327A;
+  color: #274263;
 }
 .cardpolitica {
   margin-top: 30px;
@@ -342,7 +342,7 @@ a.btn-info:active {
   border-color: #d7d7d7 !important;
   -webkit-border-radius: 7px 7px 7px 7px;
   border-radius: 7px 7px 7px 7px;
-  color: #29327A !important;
+  color: #274263 !important;
 }
 #page-mod-forum-view .btn-primary:hover {
   background-color: #d7d7d7 !important;
@@ -425,7 +425,7 @@ a.btn-info:active {
   font-family: FontAwesome;
 }
 .textoseparador {
-  border-left: 2px solid #345574;
+  border-left: 2px solid #274263;
   padding: 5px 5px 5px 15px!important;
   margin: 20px 0px 30px 0px!important;
   -webkit-border-radius: 7px 7px 7px 7px;
@@ -439,7 +439,7 @@ a.btn-info:active {
 .textoseparador:before {
   content: "\f2d0\00a0\00a0";
   font-family: FontAwesome;
-  color: #345574;
+  color: #274263;
   font-size: 1em;
 }
 .moveablesection {
@@ -460,7 +460,7 @@ a.btn-info:active {
 }
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #29327A;
+  background: #274263;
 }
 .img-card-front {
   width: 50%;
@@ -594,7 +594,7 @@ a.btn-info:active {
 #page-container-3 > div > div > div > div.card-footer.dashboard-card-footer.border-0.bg-white > div.small:before {
   content: "\f274\00a0\00a0";
   font-family: FontAwesome;
-  color: #345574;
+  color: #274263;
   font-size: 1em;
 }
 [data-region="filter"] {
@@ -638,7 +638,7 @@ a.btn-info:active {
 #page-login-index #loginbtn {
   -webkit-border-radius: 7px 7px 7px 7px;
   border-radius: 7px 7px 7px 7px;
-  background-color: #29327A;
+  background-color: #274263;
 }
 #page-login-index #page-footer {
   display: none;
@@ -762,16 +762,16 @@ a.btn-info:active {
   background-color: #000;
 }
 .amarelo .card-title {
-  color: #29327A;
+  color: #274263;
 }
 .amarelo .card-title:before {
   content: "\f274\00a0\00a0";
   font-family: FontAwesome;
-  color: #29327A;
+  color: #274263;
   font-size: 1em;
 }
 .amarelo .card-text {
-  color: #29327A;
+  color: #274263;
 }
 .nav-link active {
   color: #FFF !important;
@@ -845,13 +845,13 @@ td.teacherstatsbycourse {
   padding: 4px 7px;
   -webkit-border-radius: 0 7px 7px 0;
   border-radius: 0 7px 7px 0;
-  color: #345574 !important;
+  color: #274263 !important;
 }
 .format-tiles .phototile .progress-indic {
   background-color: #e9e9e9 !important;
   -webkit-border-radius: 0 7px 7px 0;
   border-radius: 0 7px 7px 0;
-  color: #345574 !important;
+  color: #274263 !important;
 }
 .timelinestatusrm .timeline {
   list-style: none;
@@ -1013,7 +1013,7 @@ td.teacherstatsbycourse {
   color: #e67e22;
 }
 #exampleModalLabel .modaltitulo {
-  color: #345574;
+  color: #274263;
   text-transform: uppercase;
   font-weight: bolder;
 }
@@ -1067,7 +1067,7 @@ td.teacherstatsbycourse {
 /* Caixa de login cores 
 
 .card-body, .userprofile .profile_tree section {
-  background-image: linear-gradient(135deg, #29327A, #DC0A84);
+  background-image: linear-gradient(135deg, #274263, #DC0A84);
   color: #fff;
   border-radius: 6px;
 }
