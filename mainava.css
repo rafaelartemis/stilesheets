@@ -1118,6 +1118,249 @@ td.teacherstatsbycourse {
   font-size: 1em;
 }
 
+/* CSSs movidos para cá, anteriormente declarados diretamente na header do site */
+
+@charset 'UTF-8';
+
+#page-mod-quiz-view .btn-secondary  {
+       background-color: #28486F !important;
+}
+
+/*Bloco dos Cursos*/
+
+.format-tiles ul.tiles .tile .tile-text {
+    height: 60px;
+}
+.format-tiles .course-content ul.tiles .tile.phototile {
+    height: 140px;
+}
+
+.format-tiles li.activity.subtile {
+    height: 160px;
+}
+
+.format-tiles li.activity.subtile .activitytitle a {
+background-image:none
+}
+
+#page-footer {
+    background-size: 100%;
+    background-color: #28476E !important;
+}
+
+
+@media screen and (max-width: 600px){
+.format-tiles .course-content ul.tiles .tile:not(.spacer) {
+    min-height: 140px;
+}
+}
+
+nav.fixed-top.navbar.navbar-light.bg-white.navbar-expand.moodle-has-zindex {
+    background-size: 100%;
+    background-image: url(//ead.fametro.edu.br/pluginfile.php/1/theme_adaptable/headerbgimage/1611022481/TJ-TOP-RED.jpg);
+}
+
+
+/* Slider */
+.slick-loading .slick-list {
+    background: #fff url('./ajax-loader.gif') center center no-repeat;
+}
+
+.slick-slide img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: auto;
+}
+
+/* Arrows */
+
+.slick-prev,
+.slick-next {
+    font-size: 0;
+    line-height: 0;
+    position: absolute;
+    top: 50%;
+    z-index: 9;
+    width: 20%;
+    height: 100%;
+    padding: 0;
+    -webkit-transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    transform: translate(0, -50%);
+    cursor: pointer;
+    color: transparent;
+    border: none;
+    outline: none;
+    background: transparent;
+    box-shadow: 0 0 0 0;
+}
+
+
+
+.slick-prev:hover,
+.slick-prev:active {
+    outline: none;
+    background: linear-gradient(90deg, rgb(255 255 255 / 64%) 0%, rgb(9 9 121 / 0%) 70%, rgb(9 9 121 / 0%) 100%);
+}
+
+.slick-next:hover,
+.slick-next:active {
+    outline: none;
+    background: linear-gradient(90deg, rgb(9 9 121 / 0%) 0%, rgb(9 9 121 / 0%) 30%, rgb(255 255 255 / 64%) 100%);
+}
+
+.slick-prev:hover:before,
+.slick-prev:focus:before,
+.slick-next:hover:before,
+.slick-next:focus:before {
+    opacity: 1;
+}
+
+.slick-prev.slick-disabled:before,
+.slick-next.slick-disabled:before {
+    opacity: .25;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    position: relative;
+    font-family: 'slick';
+    font-size: 20px;
+    line-height: 1;
+    opacity: .70;
+    color: white;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.slick-prev {
+    position: absolute;
+    right: 0px;
+    left: 0px;
+}
+
+[dir='rtl'] .slick-prev {
+    right: 0px;
+    left: 0px;
+}
+
+.slick-prev:before {
+    content: '<';
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.slick-next {
+    position: absolute;
+    right: 0px;
+}
+
+[dir='rtl'] .slick-next {
+    right: auto;
+    left: -25px;
+}
+
+.slick-next:before {
+    content: '>';
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+[dir='rtl'] .slick-next:before {
+    content: '>';
+}
+
+
+/* Dots */
+
+.slick-dotted.slick-slider {
+    margin-bottom: 0px;
+    z-index: 9;
+}
+
+.slick-dots {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+    padding: 0px;
+    margin: 0px;
+    margin-top: 0px;
+    list-style: none;
+    text-align: center;
+    z-index: 9;
+}
+
+.slick-dots li {
+    position: relative;
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    margin: 0 5px;
+    padding: 0;
+    border-radius: 100%;
+    list-style: none;
+    margin-top: -70px;
+    cursor: pointer;
+}
+
+.slick-dots li button {
+    font-size: 0;
+    line-height: 0;
+    display: block;
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    cursor: pointer;
+    border: 0;
+    outline: none;
+    border-radius: 100%;
+    list-style: none;
+}
+
+.slick-dots li button:hover,
+.slick-dots li button:focus {
+    outline: none;
+}
+
+.slick-dots li button:hover:before,
+.slick-dots li button:focus:before {
+    opacity: 1;
+}
+
+.slick-dots li button:before {
+    font-family: 'slick';
+    font-size: 6px;
+    line-height: 20px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 20px;
+    height: 20px;
+    border: 0px;
+    content: '.';
+    text-align: center;
+    background: #969595;
+    border-radius: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.slick-dots li.slick-active button:before {
+    opacity: .0;
+    color: black;
+}
+
+#region-main > div:nth-child(2) > h2:nth-child(2) > img:nth-child(1) {
+  max-width: 5%;
+}
+
+#instance-1675395-header > img:nth-child(1) {
+  max-width: 10%;
+}
+
 
 
 /*# sourceMappingURL=mainava_2020-1.css.map */
