@@ -1155,11 +1155,13 @@ background-image:none
 }
 }
 
+/*
+
 nav.fixed-top.navbar.navbar-light.bg-white.navbar-expand.moodle-has-zindex {
     background-size: 100%;
     background-image: url(//ead.fametro.edu.br/pluginfile.php/1/theme_adaptable/headerbgimage/1611022481/TJ-TOP-RED.jpg);
 }
-
+*/
 
 /* Slider */
 .slick-loading .slick-list {
