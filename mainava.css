@@ -645,6 +645,8 @@ a.btn-info:active {
 @LARANJA:#e67e22;
             */
 }
+
+/*
 #page-login-index #username,
 #page-login-index #password {
   -webkit-border-radius: 7px 7px 7px 7px;
@@ -662,6 +664,7 @@ a.btn-info:active {
 #page-login-index .card {
   background-color: rgba(255, 255, 255, 0.8) !important; ]
 }
+
 #page-login-index #page-content {
   background: url("https://docs.google.com/uc?id=1oJdw26Xjs4gkhAzgWeqm1AvYgXRrI5VF") center center no-repeat fixed;
   -webkit-background-size: cover;
@@ -669,6 +672,8 @@ a.btn-info:active {
   -o-background-size: cover;
   background-size: cover;
 }
+
+
 #page-footer {
   color: #fff;
 }
@@ -852,6 +857,9 @@ p.pstatus {
 td.teacherstatsbycourse {
   padding: 5px;
 }
+*/
+
+
 .no-overflow {
   overflow: hidden;
 }
