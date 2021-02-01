@@ -1378,24 +1378,5 @@ nav.fixed-top.navbar.navbar-light.bg-white.navbar-expand.moodle-has-zindex {
 }
 
 
-#page-login-index #username,
-#page-login-index #password {
-  -webkit-border-radius: 7px 7px 7px 7px;
-  border-radius: 7px 7px 7px 7px;
-  background-color: rgba(255, 255, 255, 0.8) !important;
-}
-
-#page-login-index .username::before {
-  content: "\f007\00a0\00a0";
-  font-family: FontAwesome;
-
-}
-
-#page-login-index .password::before{
-  content: "\f023\00a0\00a0";
-  font-family: FontAwesome;
-}
-
-
 
 /*# sourceMappingURL=mainava_2020-1.css.map */
