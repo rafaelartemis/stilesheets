@@ -1357,6 +1357,7 @@ nav.fixed-top.navbar.navbar-light.bg-white.navbar-expand.moodle-has-zindex {
 
 #page-login-index #page-navbar, #page-login-index .card {
   background-image: linear-gradient(-45deg, #DF2F77, #27476E);
+  border-radius: 10px;
 }
 
 
