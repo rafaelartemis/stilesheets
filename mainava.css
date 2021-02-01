@@ -1392,7 +1392,7 @@ nav.fixed-top.navbar.navbar-light.bg-white.navbar-expand.moodle-has-zindex {
 
 #loginbtn {
   background: azure;
-  color: #000;
+  color: #000 !important;
 }
 
 
