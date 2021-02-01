@@ -1381,6 +1381,13 @@ nav.fixed-top.navbar.navbar-light.bg-white.navbar-expand.moodle-has-zindex {
 /*Botao de Login*/
 
 
+/* all | https://ead.fametro.edu.br/theme/styles.php/adaptable/1611885389_1/all */
+
+.btn-primary, .backup-restore .singlebutton button[type="submit"], .path-mod-workshop .assessment-summary.graded .singlebutton input[type="submit"], .path-mod-workshop .example-summary.graded .singlebutton input[type="submit"], .btn-default, [data-role="next"], [data-role="previous"], input[type="submit"], input[type="button"], #searchform_button, a.submit, #notice .singlebutton + .singlebutton input, #page-login-index2 .forgetpass a, input.form-submit, input#id_submitbutton, input#id_submitbutton2, .path-admin .buttons input[type="submit"], .nav-pills > .active > a, td.submit input, div.discussionsubscription > a.discussiontoggle, .btn-outline-secondary, .paging-morelink a, .btn-link, a#adaptable-message-user-button, #availability_addrestriction_date.btn.btn-secondary, #availability_addrestriction_grade.btn.btn-secondary, #availability_addrestriction_profile.btn.btn-secondary, #availability_addrestriction_list_.btn.btn-secondary, #availability_addrestriction_completion.btn.btn-secondary {
+  /* color: #fff !important; */
+}
+
+
 /* Elemento | https://ead.fametro.edu.br/login/index.php */
 
 #loginbtn {
@@ -1388,11 +1395,6 @@ nav.fixed-top.navbar.navbar-light.bg-white.navbar-expand.moodle-has-zindex {
   color: #000;
 }
 
-/* all | https://ead.fametro.edu.br/theme/styles.php/adaptable/1611885389_1/all */
-
-.btn-primary, .backup-restore .singlebutton button[type="submit"], .path-mod-workshop .assessment-summary.graded .singlebutton input[type="submit"], .path-mod-workshop .example-summary.graded .singlebutton input[type="submit"], .btn-default, [data-role="next"], [data-role="previous"], input[type="submit"], input[type="button"], #searchform_button, a.submit, #notice .singlebutton + .singlebutton input, #page-login-index2 .forgetpass a, input.form-submit, input#id_submitbutton, input#id_submitbutton2, .path-admin .buttons input[type="submit"], .nav-pills > .active > a, td.submit input, div.discussionsubscription > a.discussiontoggle, .btn-outline-secondary, .paging-morelink a, .btn-link, a#adaptable-message-user-button, #availability_addrestriction_date.btn.btn-secondary, #availability_addrestriction_grade.btn.btn-secondary, #availability_addrestriction_profile.btn.btn-secondary, #availability_addrestriction_list_.btn.btn-secondary, #availability_addrestriction_completion.btn.btn-secondary {
-  /* color: #fff !important; */
-}
 
 .btn-primary:hover {
   /* background-color: #a6d1d8 !important; */
@@ -1412,6 +1414,7 @@ nav.fixed-top.navbar.navbar-light.bg-white.navbar-expand.moodle-has-zindex {
 div.mt-3:nth-child(2) {
   color: #fff;
 }
+
 
 
 
