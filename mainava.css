@@ -1385,13 +1385,13 @@ nav.fixed-top.navbar.navbar-light.bg-white.navbar-expand.moodle-has-zindex {
   background-color: rgba(255, 255, 255, 0.8) !important;
 }
 
-#page-login-index #username::before {
+#page-login-index .username::before {
   content: "\f007\00a0\00a0";
   font-family: FontAwesome;
 
 }
 
-#page-login-index #password::before{
+#page-login-index .password::before{
   content: "\f023\00a0\00a0";
   font-family: FontAwesome;
 }
