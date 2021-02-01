@@ -1364,5 +1364,13 @@ nav.fixed-top.navbar.navbar-light.bg-white.navbar-expand.moodle-has-zindex {
 }
 
 
+/*Caixa de Login */
+
+#page-login-index #page-navbar, #page-login-index .card-login {
+  
+  background-color: #555;
+  border-radius: 10px;
+}
+
 
 /*# sourceMappingURL=mainava_2020-1.css.map */
