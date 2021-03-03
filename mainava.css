@@ -341,6 +341,11 @@ a.btn-info:active {
 .format-tiles .course-content ul.tiles .tile_bar:hover {
   border-top-color: #e67e22 !important;*/
 }
+
+
+/* CORES DE BOTOES - voltar ao controle do tema.
+
+
 #page-mod-forum-view .btn-primary {
   background-color: #278ea7;
   border-color: #d7d7d7;
@@ -428,6 +433,9 @@ a.btn-info:active {
   content: "\f144\00a0\00a0";
   font-family: FontAwesome;
 }
+
+---------------------------------------------------------
+*/
 
 /* .textoseparador {
   border-left: 2px solid #274263;
