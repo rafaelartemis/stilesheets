@@ -349,50 +349,50 @@ a.btn-info:active {
   color: #274263 !important;
 }
 #page-mod-forum-view .btn-primary:hover {
-  background-color: #d7d7d7 !important;
-  border-color: #d7d7d7 !important;
+  background-color: #d7d7d7 ;
+  border-color: #d7d7d7;
 }
 #page-mod-forum-view .btn-primary:before {
   content: "\f086\00a0\00a0";
   font-family: FontAwesome;
 }
 #page-mod-feedback-view .btn-secondary {
-  background-color: #e9e9e9 !important;
-  border-color: #d7d7d7 !important;
+  background-color: #e9e9e9;
+  border-color: #d7d7d7;
   -webkit-border-radius: 7px 7px 7px 7px;
   border-radius: 7px 7px 7px 7px;
 }
 #page-mod-feedback-view .btn-secondary:hover {
-  background-color: #d7d7d7 !important;
-  border-color: #d7d7d7 !important;
+  background-color: #d7d7d7;
+  border-color: #d7d7d7;
 }
 #page-mod-feedback-view .btn-secondary:before {
   content: "\f14a\00a0\00a0";
   font-family: FontAwesome;
 }
 #page-mod-lesson-view .btn-secondary {
-  background-color: #e9e9e9 !important;
-  border-color: #d7d7d7 !important;
+  background-color: #e9e9e9;
+  border-color: #d7d7d7;
   -webkit-border-radius: 7px 7px 7px 7px;
   border-radius: 7px 7px 7px 7px;
 }
 #page-mod-lesson-view .btn-secondary:hover {
-  background-color: #d7d7d7 !important;
-  border-color: #d7d7d7 !important;
+  background-color: #d7d7d7;
+  border-color: #d7d7d7;
 }
 #page-mod-lesson-view .btn-secondary:before {
   content: "\f144\00a0\00a0";
   font-family: FontAwesome;
 }
 #page-mod-threesixo-view .btn-default {
-  background-color: #e9e9e9 !important;
-  border-color: #d7d7d7 !important;
+  background-color: #e9e9e9;
+  border-color: #d7d7d7;
   -webkit-border-radius: 7px 7px 7px 7px;
   border-radius: 7px 7px 7px 7px;
 }
 #page-mod-threesixo-view .btn-default:hover {
-  background-color: #d7d7d7 !important;
-  border-color: #d7d7d7 !important;
+  background-color: #d7d7d7 ;
+  border-color: #d7d7d7 ;
 }
 #page-mod-threesixo-view .btn-default:before {
   content: "\f118\00a0\00a0";
@@ -400,29 +400,29 @@ a.btn-info:active {
 }
 #page-mod-survey-view .btn-primary {
   color: #000;
-  background-color: #e9e9e9 !important;
-  border-color: #d7d7d7 !important;
+  background-color: #e9e9e9 ;
+  border-color: #d7d7d7 ;
   -webkit-border-radius: 7px 7px 7px 7px;
   border-radius: 7px 7px 7px 7px;
 }
 #page-mod-survey-view .btn-primary:hover {
   color: #000;
-  background-color: #d7d7d7 !important;
-  border-color: #d7d7d7 !important;
+  background-color: #d7d7d7;
+  border-color: #d7d7d7;
 }
 #page-mod-survey-view .btn-primary:before {
   content: "\f086\00a0\00a0";
   font-family: FontAwesome;
 }
 #page-mod-quiz-view .btn-secondary {
-  background-color: #e9e9e9 !important;
-  border-color: #d7d7d7 !important;
+  background-color: #e9e9e9;
+  border-color: #d7d7d7;
   -webkit-border-radius: 7px 7px 7px 7px;
   border-radius: 7px 7px 7px 7px;
 }
 #page-mod-quiz-view .btn-secondary:hover {
-  background-color: #d7d7d7 !important;
-  border-color: #d7d7d7 !important;
+  background-color: #d7d7d7;
+  border-color: #d7d7d7;
 }
 #page-mod-quiz-view .btn-secondary:before {
   content: "\f144\00a0\00a0";
