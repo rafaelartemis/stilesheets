@@ -342,14 +342,14 @@ a.btn-info:active {
   border-top-color: #e67e22 !important;*/
 }
 #page-mod-forum-view .btn-primary {
-  background-color: #e9e9e9 !important;
-  border-color: #d7d7d7 !important;
+  background-color: #278ea7;
+  border-color: #d7d7d7;
   -webkit-border-radius: 7px 7px 7px 7px;
   border-radius: 7px 7px 7px 7px;
   color: #274263 !important;
 }
 #page-mod-forum-view .btn-primary:hover {
-  background-color: #d7d7d7 ;
+  background-color: #278ea7 ;
   border-color: #d7d7d7;
 }
 #page-mod-forum-view .btn-primary:before {
@@ -371,13 +371,13 @@ a.btn-info:active {
   font-family: FontAwesome;
 }
 #page-mod-lesson-view .btn-secondary {
-  background-color: #e9e9e9;
+  background-color: #278ea7;
   border-color: #d7d7d7;
   -webkit-border-radius: 7px 7px 7px 7px;
   border-radius: 7px 7px 7px 7px;
 }
 #page-mod-lesson-view .btn-secondary:hover {
-  background-color: #d7d7d7;
+  background-color: #278ea7;
   border-color: #d7d7d7;
 }
 #page-mod-lesson-view .btn-secondary:before {
