@@ -1,13 +1,11 @@
 
-/*
-
 // MUDANÃƒâ€¡A DA SETA
    $("#page-header .page-header-headings").hide();
 $(".larrow").html('<spam class="awe5"> <i class="fas fa-angle-double-left"></i></spam>');
 $(".rarrow").html('<spam class="awe5"> <i class="fas fa-angle-double-right"></i></spam>');
 
 
-function consultamatricula(){
+/* function consultamatricula(){
  matricula = $('#matricula').val();
  
  $.ajax({
@@ -26,7 +24,7 @@ function consultamatricula(){
         alert('Digitar apenas os nÃºmeros da matrÃ­cula!');
     }
  });
-}
+} */
 
 // PÃGINA DE LOGIN
 
@@ -86,10 +84,7 @@ if(pathname == '/'){
     $('#region-main > div > div.row').addClass("flex-row-reverse");
     $('#region-main > div > div.row > div > div > div>h2').html('ACESSO AO AMBIENTE VIRTUAL DE APRENDIZAGEM - AVA');
     
-    
-
-
-*/
+   
     
 
 
@@ -102,7 +97,7 @@ var surl = url.split('.');
 var ambiente  = surl[0].slice(8);
 
 //console.log(ambiente);
-/*
+
 
 // ESCONDE LINK PARA BAIXAR O APLICATIVO
 $("#page-footer > div > a").hide();
