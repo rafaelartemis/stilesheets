@@ -1,5 +1,5 @@
 
-
+/*
 
 // MUDANÃƒâ€¡A DA SETA
    $("#page-header .page-header-headings").hide();
@@ -40,7 +40,7 @@ var pathname = window.location.pathname;
 
 if(pathname == '/'){
 
-/*// insere no header da frontpage
+// insere no header da frontpage
      $.ajax({
     url: 'https://erpead.fametro.edu.br/custom/frontheader.php',
     type: 'POST',
@@ -71,7 +71,7 @@ if(pathname == '/'){
     }, error: function () {
     }
  });
- */
+
 
 
 
@@ -89,7 +89,7 @@ if(pathname == '/'){
     
 
 
-
+*/
     
 
 
@@ -102,7 +102,7 @@ var surl = url.split('.');
 var ambiente  = surl[0].slice(8);
 
 //console.log(ambiente);
-
+/*
 
 // ESCONDE LINK PARA BAIXAR O APLICATIVO
 $("#page-footer > div > a").hide();
@@ -222,12 +222,7 @@ $( ".SuporteRmModal" ).each(function( index ) {
 });
 
 
-
-
-
-
-});
-
+/*
 
     
 // MUDANÃƒâ€¡A DA SETA$
@@ -259,5 +254,5 @@ function consultamatricula(){
 
 }
 
-
+*/
  
