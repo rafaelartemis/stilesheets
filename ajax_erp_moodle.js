@@ -28,8 +28,7 @@ $(".rarrow").html('<spam class="awe5"> <i class="fas fa-angle-double-right"></i>
 
 // PÃGINA DE LOGIN
 
-$(document).ready(function(){
-
+$(document).ready(function(){ 
 
     
 var pathname = window.location.pathname;
